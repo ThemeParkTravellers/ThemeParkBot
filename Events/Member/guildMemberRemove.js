@@ -22,8 +22,8 @@ module.exports = {
 
 
         const Logger = new WebhookClient({
-            id: "987697562561675295",
-            token: "3Qr0v4O6laqPZTFOW44_lG2XK-1ta4Qj-eBnBC65L1QllyuyQLubPn63ATayzuqmt-oI"
+            id: "your webhook id here",
+            token: "your webhook token here"
         });
 
         await Logger.edit({
