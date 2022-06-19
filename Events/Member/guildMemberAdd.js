@@ -22,10 +22,9 @@ module.exports = {
 
         const { channels, members } = guild;
 
-        //https://discord.com/api/webhooks/987697562561675295/3Qr0v4O6laqPZTFOW44_lG2XK-1ta4Qj-eBnBC65L1QllyuyQLubPn63ATayzuqmt-oI
         const Welcomer = new WebhookClient({
-            id: "987697562561675295",
-            token: "3Qr0v4O6laqPZTFOW44_lG2XK-1ta4Qj-eBnBC65L1QllyuyQLubPn63ATayzuqmt-oI"
+            id: "your webhook id here",
+            token: "your webhook token here"
         });
         await Welcomer.edit({
             name: user.username,
