@@ -1,0 +1,8 @@
+{
+    "Token": "your token here",
+    "Database" : "your database url here",
+    "GuildID" : "your guild id here",
+    "MemberRoleID": "your member role id here",
+    "MemberCountChannelID": "your member count channel id here",
+    "BotCountChannelID": "your bot count channel id here"
+}
