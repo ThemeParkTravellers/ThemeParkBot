@@ -55,7 +55,7 @@ module.exports = {
 
         const Buttons = new MessageActionRow();
         Buttons.addComponents(
-            new MessageButton().setCustomId("rules-accept").setLabel("✅ Accept").setStyle("PRIMARY")
+            new MessageButton().setCustomId("rules-accept").setLabel("✅ Accept").setStyle("SUCCESS")
         )
 
         channel.send({

@@ -1,8 +1,8 @@
 {
-    "Token": "your token here",
-    "Database" : "your database url here",
-    "GuildID" : "your guild id here",
-    "MemberRoleID": "your member role id here",
-    "MemberCountChannelID": "your member count channel id here",
-    "BotCountChannelID": "your bot count channel id here"
+    "Token": "token here",
+    "Database" : "database url here",
+    "GuildID" : "guild id here",
+    "MemberRoleID": "member role id here",
+    "MemberCountChannelID": "member count channel id here",
+    "BotCountChannelID": "bot count channel id here"
 }

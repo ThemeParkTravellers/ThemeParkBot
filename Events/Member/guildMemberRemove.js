@@ -20,10 +20,9 @@ module.exports = {
             guild
         } = member;
 
-
         const Logger = new WebhookClient({
-            id: "987697562561675295",
-            token: "3Qr0v4O6laqPZTFOW44_lG2XK-1ta4Qj-eBnBC65L1QllyuyQLubPn63ATayzuqmt-oI"
+            id: "webhook id here",
+            token: "webhook token here"
         });
 
         await Logger.edit({
